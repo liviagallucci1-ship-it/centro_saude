@@ -42,4 +42,4 @@ Inicialmente, também foi definido um limite máximo para os registos, estabelec
 
 ## Documentação
 
-O relatório completo do projeto encontra-se disponível abaixo
+O relatório completo do projeto encontra-se disponível na pasta documentação.
